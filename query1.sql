@@ -1,2 +1,5 @@
-create db world
-populate world.sql
+
+SELECT * FROM country
+WHERE region = 'Southern Europe'
+ORDER BY population
+LIMIT 1;
