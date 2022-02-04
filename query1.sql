@@ -1,2 +1,2 @@
-CREATE DATABASE world;
-\connect world
+create db world
+populate world.sql
