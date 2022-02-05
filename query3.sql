@@ -1,8 +1,4 @@
-SELECT c.region, c.name, c.code
-FROM countrylanguage cl, country c
+SELECT * FROM countrylanguage
 WHERE language = 'Italian'
-AND cl.countrycode = c.code
-AND c.region = 'Southern Europe'
-AND 1 = (SELECT COUNT(language)
-         FROM countrylanguage
-         WHERE countrycode = c.code);
+ORDER BY percentage DESC;
+SELECT name,code FROM country WHERE code = 'SMR';

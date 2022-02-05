@@ -35,12 +35,14 @@
 -- headed to, but doesn't end the same. Find out the city, and do another search for what country it's in. Hurry!
 
 
+-- Serra "BRA"
 
 -- Clue #6: We're close! Our South American agent says she just got a taxi at the airport, and is headed towards
  -- the capital! Look up the country's capital, and get there pronto! Send us the name of where you're headed and we'll
  -- follow right behind you!
 
 
+-- Brasilia
 
 -- Clue #7: She knows we're on to her – her taxi dropped her off at the international airport, and she beat us to
  -- the boarding gates. We have one chance to catch her, we just have to know where she's heading and beat her to the

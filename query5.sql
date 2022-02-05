@@ -1,3 +1,1 @@
-SELECT *
-FROM city
-WHERE name LIKE 'Serra%';
+SELECT * FROM city WHERE name LIKE 'Serra%';

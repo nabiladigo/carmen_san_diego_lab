@@ -1,5 +1,2 @@
 
-SELECT * FROM country
-WHERE region = 'Southern Europe'
-ORDER BY population
-LIMIT 1;
+SELECT * FROM country WHERE region = 'Southern Europe' ORDER BY population ASC;
