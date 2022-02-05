@@ -1,2 +1,2 @@
 SELECT capital FROM country WHERE code = 'BRA';
-SELECT * FROM city WHERE id= '211'
+-- SELECT * FROM city WHERE id= '211'
